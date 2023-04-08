@@ -1,0 +1,9 @@
+.sidebar-container {
+    width: 100px;
+    height: 100%;
+}
+.profile-img {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+}
